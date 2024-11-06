@@ -1,4 +1,4 @@
-package _2024_10_30;
+package aula_02;
 
 public class OperradoresRelacionais {
     public static void main(String[] args) {

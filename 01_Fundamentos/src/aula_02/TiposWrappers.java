@@ -1,6 +1,4 @@
-package _2024_10_30;
-
-import java.util.ArrayList;
+package aula_02;
 
 public class TiposWrappers {
     public static void main(String[] args) {

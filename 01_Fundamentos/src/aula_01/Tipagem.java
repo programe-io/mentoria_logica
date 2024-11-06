@@ -1,4 +1,4 @@
-package _2024_10_28;
+package aula_01;
 
 public class Tipagem {
     public static void main(String[] args) {
