@@ -4,5 +4,4 @@ out
 01_Fundamentos.iml
 .idea
 *.iml
-
-
+*.class
