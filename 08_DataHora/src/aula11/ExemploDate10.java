@@ -11,6 +11,5 @@ public class ExemploDate10 {
 
         Period periodo = Period.between(dataAtual, dataAtual);
         System.out.println(periodo.getYears());
-
     }
 }
